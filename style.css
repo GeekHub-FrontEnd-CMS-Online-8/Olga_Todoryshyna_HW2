@@ -1,0 +1,56 @@
+body {
+	margin: auto;
+	padding: 10%;
+	font-family: arial;
+	font-size: 20px;
+}
+
+.hm {
+	font-size: 23px;
+	font-style: italic;
+}
+
+.header {
+	text-align: center;
+}
+
+.italic_c {
+	text-align: center;
+	font-style: oblique;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+.bold_text {
+	font-weight: bold;
+}
+
+.lighter {
+	font-size: 27px;
+}
+
+.left {
+	float: left;
+	margin: 15px 15px 15px 0px;
+	width: 380px;
+}
+
+.bold_it {
+	font-weight: bold;
+	font-style: oblique;
+}
+
+.img_center {
+	text-align: center;
+}
+
+ul, ol {
+	padding-top: 50px;
+}
+
+.it_right {
+	text-align: right;
+	font-style: italic;
+}
